@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Exercicio001{
+public class Exercicio032{
     public static void main(String[]args){
         double contaNUmeros = 0, media = 0;
         int numero = 0, somaNumeros = 0, menor = Integer.MIN_VALUE, maior = 0;
