@@ -1,18 +1,19 @@
-## Getting Started
+# Gerenciamento de Pedidos
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Tópicos abordados
 
-## Folder Structure
+- Lógica de programação
+  - Variáveis, entrada, processamento, saída
+  - Estrutura condicional
+  - Estruturas repetitivas
+- OOP básica
+  - Classes, atributos, métodos, objetos
+  - Construtores, encapsulamento
+  - List
 
-The workspace contains two folders by default, where:
+  ## Diagrama de Classes
+  ![image](https://github.com/user-attachments/assets/8c6379ac-04c3-4d7a-b553-c8ddbc047a6e)
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+  ##Código em execução
+  ![image](https://github.com/user-attachments/assets/9caf1d4f-2add-42c0-97c3-5debfcb4a981)
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
